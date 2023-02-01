@@ -1,6 +1,6 @@
 <template>
   <footer class="nav">
-    <p>acte | {{ new Date().getFullYear()  }}</p>
+    <p>a.c.t.e. | {{ new Date().getFullYear()  }}</p>
   </footer>
 </template>
 
